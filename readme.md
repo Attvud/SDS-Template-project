@@ -51,4 +51,4 @@ body {
 
 Все иконки сделаны в векторном формате и автоматически оптимизированы через **SVGO API** ([настройки экспорта](/system/docs/svgo.json)). Система дизайна экспортирует все доступные ей иконки ([Rounded](/2%20Export/Icons/Rounded), [Brands](/2%20Export/Icons/Brands)). Вам нужны только те, которые используются в UX/UI.
 
-![Footer](/2%20Export/Guides/RU/GitHub/Footer.png)
+![Footer](/2%20Export/Guides/RU/GitHub/Footer.jpg)
