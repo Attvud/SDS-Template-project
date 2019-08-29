@@ -4,13 +4,13 @@
 
 ## Быстрые ссылки
 
-- UX/UI presentation video - [Desktop](#), [Mobile](#)
+- UX/UI presentation video - [desktop](#), [mobile](#)
 - Video for developers - [№1](#), [№2](#)
-- InVision - [Desktop](#), [Mobile](#)
+- InVision - [desktop](#), [mobile](#)
 - [Скачать исходник](/1%20Sources)
-- [Скачать логотип](/2%20Export/Branding/)
+- Скачать логотип - [с текстом](/2%20Export/Branding/1%20Project%20Logo%20With%20Text.svg), [без текста](/2%20Export/Branding/1%20Project%20Logo.svg)
 - [Скачать иконки](#icons)
-- [Написать дизайнеру](mailto:w@res.pm)
+- [Написать UX/UI дизайнеру](mailto:w@res.pm)
 
 ## Коротко о главном
 
