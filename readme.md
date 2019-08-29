@@ -49,6 +49,6 @@ body {
 
 ![Icons](/2%20Export/Guides/RU/GitHub/Icons.jpg)
 
-В этом проекте используются [Rounded](/2%20Export/Icons/Rounded) иконки + иконки [брендов](/2%20Export/Icons/Brands). Система дизайна экспортирует все доступные ей иконки. Вам нужны только те, которые используются в UX/UI.
+В этом проекте используются [rounded](/2%20Export/Icons/Rounded) иконки + иконки [брендов](/2%20Export/Icons/Brands). Система дизайна экспортирует все доступные ей иконки. Вам нужны только те, которые используются в UX/UI.
 
 ![Footer](/2%20Export/Guides/RU/GitHub/Footer.png)
