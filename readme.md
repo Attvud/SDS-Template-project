@@ -7,7 +7,7 @@
 - Video for developers - [№ 1](#), [№ 2](#)
 - InVision - [Desktop](#), [Mobile](#)
 - [Скачать исходник](/1%20Sources)
-- [Скачать логотип](/2%20Export/branding/~%20project%20logo.svg)
+- [Скачать логотип](/2%20Export/Branding/)
 - [Скачать иконки](#icons)
 - [Написать дизайнеру](mailto:w@res.pm)
 
