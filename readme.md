@@ -3,8 +3,8 @@
 Этот репозиторий создан, чтобы упростить жизнь всем, кто будет в дальнейшем работать над этим проектом. 
 
 **Быстрые ссылки**
-- UX/UI presentation video - [Desktop](#) || [Mobile](#)
-- Video for developers - [№ 1](#) || [№ 2](#)
+- UX/UI presentation video - [Desktop](#), [Mobile](#)
+- Video for developers - [№ 1](#), [№ 2](#)
 - [InVision ~ desktop](https://invis.io/YZTGIYLBTGP#/379022878_UX-_UI_-_Desktop_-_-_Home) || [InVision ~ mobile](https://projects.invisionapp.com/share/54T6IEY7KVF#/screens/376018575)
 - [Скачать исходник](/1%20Sources)
 - [Скачать логотип](/2%20Export/branding/~%20project%20logo.svg)
