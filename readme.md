@@ -19,7 +19,7 @@
 
 ## Color scheme
 
-![Color scheme](/2%20Export/~%20Guides/RU/GitHub/Color%20Scheme.jpg)
+![Color scheme](/2%20Export/Guides/RU/GitHub/Color%20Scheme.jpg)
 
 На изображении выше показаны цвета, которые были использованы в дизайне. Использовать другие оттенки нельзя. В [исходнике](/1%20Sources) на странице **"~ settings & branding > Color settings"** вы сможете найти все палитры, в том числе и с оттенками серого.
 
