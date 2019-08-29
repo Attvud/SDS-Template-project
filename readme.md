@@ -51,4 +51,4 @@ body {
 
 В этом проекте используются [Rounded](/2%20Export/icons/rounded) иконки + иконки брендов. Система дизайна экспортирует все доступные ей иконки. Вам нужны только те, которые используются в UX/UI.
 
-![Footer](/2%20Export/~%20guidelines/RU/github/footer.png)
+![Footer](/2%20Export/Guides/RU/GitHub/Footer.png)
