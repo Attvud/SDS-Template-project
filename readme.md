@@ -37,7 +37,7 @@ P.S.: Если цвета в "Primary palette" и "Secondary palette" не от�
 
 **Обязательно нужно использовать этот код в десктопном Front end**
 
-```
+```css
 body {
     font-family: "-apple-system",BlinkMacSystemFont,Arial,sans-serif;
     -webkit-font-smoothing: antialiased;
