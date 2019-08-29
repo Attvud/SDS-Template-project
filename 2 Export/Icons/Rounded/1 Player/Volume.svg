@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="volume-a" d="M18.5,12 C18.5,10.23 17.48,8.71 16,7.97 L16,16.02 C17.48,15.29 18.5,13.77 18.5,12 Z M5,10 L5,14 C5,14.55 5.45,15 6,15 L9,15 L12.29,18.29 C12.92,18.92 14,18.47 14,17.58 L14,6.41 C14,5.52 12.92,5.07 12.29,5.7 L9,9 L6,9 C5.45,9 5,9.45 5,10 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon points="24 24 0 24 0 0 24 0" opacity=".87"/>
+    <mask id="volume-b" fill="#fff">
+      <use xlink:href="#volume-a"/>
+    </mask>
+    <use fill="#000" xlink:href="#volume-a"/>
+    <g fill="#000" mask="url(#volume-b)">
+      <rect width="24" height="24"/>
+    </g>
+  </g>
+</svg>

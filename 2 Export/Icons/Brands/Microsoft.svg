@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="microsoft-a" d="M11,21 L2,21 L2,12 L11,12 L11,21 Z M21,21 L12,21 L12,12 L21,12 L21,21 Z M11,11 L2,11 L2,2 L11,2 L11,11 Z M21,11 L12,11 L12,2 L21,2 L21,11 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon points="0 0 24 0 24 24 0 24"/>
+    <mask id="microsoft-b" fill="#fff">
+      <use xlink:href="#microsoft-a"/>
+    </mask>
+    <use fill="#000" xlink:href="#microsoft-a"/>
+    <g fill="#000" mask="url(#microsoft-b)">
+      <rect width="24" height="24"/>
+    </g>
+  </g>
+</svg>

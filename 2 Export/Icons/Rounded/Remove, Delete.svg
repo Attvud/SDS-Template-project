@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="remove,-delete-a" d="M18,13 L6,13 C5.45,13 5,12.55 5,12 C5,11.45 5.45,11 6,11 L18,11 C18.55,11 19,11.45 19,12 C19,12.55 18.55,13 18,13 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon points="0 0 24 0 24 24 0 24"/>
+    <mask id="remove,-delete-b" fill="#fff">
+      <use xlink:href="#remove,-delete-a"/>
+    </mask>
+    <use fill="#000" xlink:href="#remove,-delete-a"/>
+    <g fill="#000" mask="url(#remove,-delete-b)">
+      <rect width="24" height="24"/>
+    </g>
+  </g>
+</svg>
