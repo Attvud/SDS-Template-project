@@ -8,7 +8,7 @@
 - Video for developers - [№1](#), [№2](#)
 - InVision - [desktop](#), [mobile](#)
 - [Скачать исходник](/1%20Sources)
-- Скачать логотип - [с текстом](/2%20Export/Branding/1%20Project%20Logo%20With%20Text.svg), [без текста](/2%20Export/Branding/1%20Project%20Logo.svg)
+- Скачать логотип - [без текста](/2%20Export/Branding/1%20Project%20Logo.svg), [с текстом](/2%20Export/Branding/1%20Project%20Logo%20With%20Text.svg)
 - [Скачать иконки](#icons)
 - [Написать UX/UI дизайнеру](mailto:w@res.pm)
 
