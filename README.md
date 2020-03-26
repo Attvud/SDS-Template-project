@@ -11,7 +11,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Designer - Artem Attvud. Contacts - [Email](mailto:w@res.pm), [Skype](https://join.skype.com/invite/bb356Tlkhmd7), [LinkedIn](https://www.linkedin.com/in/attvud), [Telegram](https://t.me/Attvud)
+- Designer - Artem Attvud. Contacts - [Email](mailto:w@res.pm), [LinkedIn](https://www.linkedin.com/in/attvud)
 
 ## InVision
 
