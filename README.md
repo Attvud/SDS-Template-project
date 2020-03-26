@@ -1,6 +1,7 @@
 # ProjectName
 
 ![Cover.img](/Cover.png)
+![Cover.img](/Cover2.png)
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
