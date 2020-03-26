@@ -1,5 +1,7 @@
 # ProjectName
 
+![Cover.img](/Cover.png)
+
 Please read the information below carefully. It has everything you and developers need to continue working on the project.
 
 ## Download Links
