@@ -66,9 +66,8 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 All icons are divided into sections:
 
-1. [Main.]() ≈ 1,000 icons named and divided by folders according to their value.
-2. [Brand icons]() (social networks, messengers, etc.).
-3. [Unique icons]() created specifically for this project.
+1. [Main icons.]() ≈ 1,000 icons named and divided by folders according to their value.
+2. [Project icons]() (social networks, messengers, etc.).
 
 ## Technologies and Software Used
 
