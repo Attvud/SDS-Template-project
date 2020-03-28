@@ -1,5 +1,3 @@
-# ProjectName
-
 ![Logotype.img](/02%20-%20Export/Project%20overview/GitHub/Logotype%20-%20Monogram%20&%20wordmark.png)
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
