@@ -16,8 +16,5 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 2. [Project](/02%20-%20Export/Icons/Project/) (social networks, messengers, etc.).
 
-Обратите внимание! Все иконки из секции `Main` доступны в виде шрифттов следующих форматов - EOT, TTF, WOFF. Шрифт можно скачать.
-
-
 
 
