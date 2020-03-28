@@ -9,9 +9,9 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 All icons are divided into sections:
 
 1. [Main icons.](/02%20-%20Export/Icons/Main/) ≈ 1,000 icons named and divided by folders according to their value.
-a. Outlined
-b. Rounded
-c. Sharp
+- Outlined
+- Rounded
+- Sharp
 2. [Project icons](/02%20-%20Export/Icons/Project/) (social networks, messengers, etc.).
 
 Обратите внимание! Все иконки из секции `Main` доступны в виде шрифттов следующих форматов - EOT, TTF, WOFF. Шрифт можно скачать
