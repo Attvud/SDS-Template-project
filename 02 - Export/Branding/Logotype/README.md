@@ -23,9 +23,9 @@ The primary logo is a combination mark that consists of the monogram/lettermark,
 
 ![Logotype.img](/02%20-%20Export/Project%20overview/GitHub/Logotype%20-%20Monogram.png)
 
-We use the monogram as social media profile image for our official Twitter and GitHub accounts, and as “favicon” for our official website.
+Monogram is used in social media profile image for official accounts, and as “favicon” for official website.
 
-Furthermore the monogram may be used in cases where the association with Gatsby is evident, especially when space is an issue, e.g. like we currently do on store.gatsbyjs.org for mobile devices.
+Furthermore the monogram may be used in cases where the association with your brand is evident.
 
 **Vector**
 
