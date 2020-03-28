@@ -22,7 +22,7 @@ InVision is the digital product design platform used to make the world's best cu
 ## Colors
 ![Colors.img](/02%20-%20Export/Project%20overview/GitHub/Colors.png)
 
-[Here's the SCSS code](/X/Docs/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
+[Here's the SCSS code](/X/System/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
 
 Using this solution, you can easily create a behavior for elements (hover, focus, etc.) and refer to each color and its hue by a variable name.
 
