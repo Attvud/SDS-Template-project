@@ -10,9 +10,9 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 1. [Main](/02%20-%20Export/Icons/Main/) - в этом каталоге икоки отсортированы по типам - Outlined, Rounded, Sharp. В рамках одного проекта я всегда использую только один тип иконок. Вы можете скачать иконки отдельно в следующих форматах: PDF, SVG. Также все типы иконок доступны в виде шрифтов следующих форматов - EOT, TTF, WOFF.
 
-- Outlined - PDF, SVG / Font
-- Rounded - PDF, SVG / Font
-- Sharp - PDF, SVG / Font
+- Outlined - [PDF, SVG]() / [Font]()
+- Rounded - [PDF, SVG]() / [Font]()
+- Sharp - [PDF, SVG]() / [Font]()
 
 2. [Project](/02%20-%20Export/Icons/Project/) (social networks, messengers, etc.).
 
