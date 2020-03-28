@@ -10,7 +10,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Design - [Order changes](/issues/new?assignees=&labels=&template=request---design-changes.md&title=Request+to+change+the+design) / [Ask a question](mailto:w@res.pm)
+- Design - [Order changes](/issues) / [Ask a question](mailto:w@res.pm)
 
 ## InVision
 
