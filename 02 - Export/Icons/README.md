@@ -1,7 +1,5 @@
 # Icons
 
-![Icons.img](/02%20-%20Export/Project%20overview/GitHub/Icons.png)
-
 All icons are optimized using the [SVGO](https://github.com/svg/svgo) API. The weight of the icons was reduced by 30-48%. Export settings are specified in [this file](/X/System/svgo.json).
 
 Icons have been successfully tested on the following platforms: Web, Android, iOS.
@@ -10,6 +8,8 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 ### Main
 
+![Icons - Main.img](/02%20-%20Export/Project%20overview/GitHub/Icons%20-%20Main.png)
+
 In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always use only one icon type per project. You can download icons separately in the following formats: PDF, SVG. All icon types are also available as fonts in the following formats: EOT, TTF, and WOFF.
 
 - [PDF](/02%20-%20Export/Icons/Main/Outlined/pdf) / [SVG](/02%20-%20Export/Icons/Main/Outlined/svg) / [Font](/02%20-%20Export/Icons/Main/Outlined/Icon-Font-Outlined.zip) - Outlined
@@ -17,6 +17,9 @@ In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always us
 - [PDF](/02%20-%20Export/Icons/Main/Sharp/pdf) / [SVG](/02%20-%20Export/Icons/Main/Sharp/svg) / [Font](/02%20-%20Export/Icons/Main/Sharp/Icon-Font-Sharp.zip) - Sharp
 
 ### Project
+
+![Icons - Project.img](/02%20-%20Export/Project%20overview/GitHub/Icons%20-%20Project.png)
+
 [Icons that are only used in this project](/02%20-%20Export/Icons/Project/).
 
 
