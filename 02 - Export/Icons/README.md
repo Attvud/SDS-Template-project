@@ -10,9 +10,9 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 1. [Main](/02%20-%20Export/Icons/Main/) - в этом каталоге икоки отсортированы по типам - Outlined, Rounded, Sharp. В рамках одного проекта я всегда использую только один тип иконок. Вы можете скачать иконки отдельно в следующих форматах: PDF, SVG. Также все типы иконок доступны в виде шрифтов следующих форматов - EOT, TTF, WOFF.
 
-- Outlined - [PDF](/02%20-%20Export/Icons/Main/Outlined/pdf) / [SVG](/02%20-%20Export/Icons/Main/Outlined/svg) / [Font](/02%20-%20Export/Icons/Main/Outlined/Icon-Font-Outlined.zip)
-- Rounded - [PDF](/02%20-%20Export/Icons/Main/Rounded/pdf) / [SVG](/02%20-%20Export/Icons/Main/Rounded/svg) / [Font](/02%20-%20Export/Icons/Main/Rounded/Icon-Font-Rounded.zip)
-- Sharp - [PDF](/02%20-%20Export/Icons/Main/Sharp/pdf) / [SVG](/02%20-%20Export/Icons/Main/Sharp/svg) / [Font](/02%20-%20Export/Icons/Main/Sharp/Icon-Font-Sharp.zip)
+- [PDF](/02%20-%20Export/Icons/Main/Outlined/pdf) / [SVG](/02%20-%20Export/Icons/Main/Outlined/svg) / [Font](/02%20-%20Export/Icons/Main/Outlined/Icon-Font-Outlined.zip) - Outlined
+- [PDF](/02%20-%20Export/Icons/Main/Rounded/pdf) / [SVG](/02%20-%20Export/Icons/Main/Rounded/svg) / [Font](/02%20-%20Export/Icons/Main/Rounded/Icon-Font-Rounded.zip) - Rounded
+- [PDF](/02%20-%20Export/Icons/Main/Sharp/pdf) / [SVG](/02%20-%20Export/Icons/Main/Sharp/svg) / [Font](/02%20-%20Export/Icons/Main/Sharp/Icon-Font-Sharp.zip) - Sharp
 
 2. [Project](/02%20-%20Export/Icons/Project/) (social networks, messengers, etc.).
 
