@@ -18,8 +18,6 @@ In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always us
 
 ### Project
 
-![Icons - Project.img](/02%20-%20Export/Project%20overview/GitHub/Icons%20-%20Project.png)
-
 [Icons that are only used in this project](/02%20-%20Export/Icons/Project/).
 
 
