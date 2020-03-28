@@ -31,8 +31,8 @@ Using this solution, you can easily create a behavior for elements (hover, focus
 ![Logotype.img](/Logotype.png)
 
 ### Download Links
-- [Version with text]()
-- [Version without text]()
+- Monogram & wordmark - [SVG](), [EPS](), [PNG]().
+- Monogram - [SVG](), [EPS](), [PNG]().
 
 ## Typography
 
