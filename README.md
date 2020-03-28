@@ -16,7 +16,7 @@ Please read the information below carefully. It has everything you and developer
 ## InVision
 
 - Web Site - [Desktop](), [Mobile]()
-- [Mobile App (Android)]()
+- Mobile App - [Android]()
 
 InVision is the digital product design platform used to make the world's best customer experiences. Click the link and hold the `"shift"` button to see the interactive elements.
 
