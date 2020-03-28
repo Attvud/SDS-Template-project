@@ -17,7 +17,7 @@ In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always us
 - [PDF](/02%20-%20Export/Icons/Main/Sharp/pdf) / [SVG](/02%20-%20Export/Icons/Main/Sharp/svg) / [Font](/02%20-%20Export/Icons/Main/Sharp/Icon-Font-Sharp.zip) - Sharp
 
 ### Project
-2. [Icons that are only used in this project.](/02%20-%20Export/Icons/Project/).
+2. [Icons that are only used in this project](/02%20-%20Export/Icons/Project/).
 
 
 
