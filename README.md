@@ -12,8 +12,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Design - [Order changes](), / [Ask a question](mailto:w@res.pm)
-- [Order a design change]()
+- Design - [Order changes]() / [Ask a question](mailto:w@res.pm)
 
 ## InVision
 
