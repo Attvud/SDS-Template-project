@@ -30,11 +30,11 @@
     },
     {
       "name": "cleanupAttrs",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "inlineStyles",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "minifyStyles",
@@ -94,7 +94,7 @@
     },
     {
       "name": "removeHiddenElems",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "removeEmptyText",
@@ -106,11 +106,11 @@
     },
     {
       "name": "moveElemsAttrsToGroup",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "moveGroupAttrsToElems",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "collapseGroups",
@@ -118,7 +118,7 @@
     },
     {
       "name": "convertPathData",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "convertTransform",
@@ -161,11 +161,15 @@
     },
     {
       "name": "removeAttrs",
-      "enabled": true
+      "enabled": false
+    },
+    {
+      "name": "removeAttributesBySelector",
+      "enabled": false
     },
     {
       "name": "removeElementsByAttr",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "addClassesToSVGElement",
@@ -173,7 +177,7 @@
     },
     {
       "name": "removeStyleElement",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "removeScriptElement",
@@ -181,6 +185,14 @@
     },
     {
       "name": "addAttributesToSVGElement",
+      "enabled": false
+    },
+    {
+      "name": "removeOffCanvasPaths",
+      "enabled": false
+    },
+    {
+      "name": "reusePaths",
       "enabled": false
     }
   ]
