@@ -1,6 +1,6 @@
 # ProjectName
 
-![Cover.img](/Cover.png)
+![Cover.img](/02%20-%20Export/Project%20iverview/GitHub/Cover.png)
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
@@ -21,7 +21,7 @@ Please read the information below carefully. It has everything you and developer
 InVision is the digital product design platform used to make the world's best customer experiences. Click the link and hold the `"shift"` button to see the interactive elements.
 
 ## Colors
-![Colors.img](/Colors.png)
+![Colors.img](/02%20-%20Export/Project%20iverview/GitHub/Colors.png)
 
 [Here's the SCSS code]() that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
 
@@ -29,7 +29,7 @@ Using this solution, you can easily create a behavior for elements (hover, focus
 
 ## Typography
 
-![Typography.img](/Typography.png)
+![Typography.img](/02%20-%20Export/Project%20iverview/GitHub/Typography.png)
 
 **Legend**: `R` - Regular, `B` - Bold, `LH` - Line Height. The font set used in the project is marked in blue.
 
@@ -51,7 +51,7 @@ body {
 
 ## Icons
 
-![Icons.img](/Icons.png)
+![Icons.img](/02%20-%20Export/Project%20iverview/GitHub/Icons.png)
 
 All icons are optimized using the [SVGO](https://github.com/svg/svgo) API. The weight of the icons was reduced by 30-48%. Export settings are specified in [this file]().
 
