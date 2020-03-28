@@ -10,7 +10,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Design - [Order changes](/issues) / [Ask a question](mailto:w@res.pm)
+- Design - [Order changes](https://github.com/Attvud/SDS-Template-project/issues/new/choose) / [Ask a question](mailto:w@res.pm)
 
 ## InVision
 
