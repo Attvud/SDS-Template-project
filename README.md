@@ -62,4 +62,4 @@ body {
 
 ## Contacts
 
-- UX Designer - Artem Attvud. [Email](mailto:w@res.pm), [LinkedIn](https://www.linkedin.com/in/attvud)
+- UX Designer - Artem Attvud. [Email](mailto:w@res.pm), [LinkedIn](https://www.linkedin.com/in/attvud), [Site](https://res.pm/).
