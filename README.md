@@ -5,7 +5,7 @@ Please read the information below carefully. It has everything you and developer
 ## Download links
 - [Source file (.sketch)](/01%20-%20Sources/Project%20Source.sketch). Click on the link and click `"Download"`
 - [Logotype](/02%20-%20Export/Branding/Logotype/README.md)
-- [Graphics]()
+- [Graphics](/02%20-%20Export/Graphics)
 - [Icons](/02%20-%20Export/Icons)
 
 ## Help
