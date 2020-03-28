@@ -4,8 +4,8 @@
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
-## Download Links
-- [Source file (.sketch)](/01%20-%20Sources/Project%20Source.sketch)
+## Download links
+- [Source file (.sketch)](/01%20-%20Sources/)
 - [Logotype](/02%20-%20Export/Branding/Logotype/)
 - [Icons](#Icons)
 
@@ -23,7 +23,7 @@ InVision is the digital product design platform used to make the world's best cu
 ## Colors
 ![Colors.img](/02%20-%20Export/Project%20overview/GitHub/Colors.png)
 
-[Here's the SCSS code]() that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
+[Here's the SCSS code](/X/Docs/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
 
 Using this solution, you can easily create a behavior for elements (hover, focus, etc.) and refer to each color and its hue by a variable name.
 
@@ -62,7 +62,7 @@ All icons are divided into sections:
 1. [Main icons.]() ≈ 1,000 icons named and divided by folders according to their value.
 2. [Project icons]() (social networks, messengers, etc.).
 
-## Technologies and Software Used
+## Technologies and software used
 
 **UX/UI Design**
 
