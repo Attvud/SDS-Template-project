@@ -73,7 +73,7 @@ All icons are divided into sections:
 
 **UX/UI Design**
 
-- [Sitis]() - Development of a Design System for this project
+- [Sitis Design System (SDS)]() - Design System for this project
 - Sketch - UX/UI & Prototyping
 - InVision, YouTube – Demonstration of the result of work
 - Principle, Flinto, InVision Studio – Animation
