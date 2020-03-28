@@ -3,7 +3,7 @@
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
 ## Download links
-- [Source file (.sketch)](/01%20-%20Sources/)
+- [Source file (.sketch)](/01%20-%20Sources/Project%20Source.sketch). Click on the link and click `"Download"`
 - [Logotype](/02%20-%20Export/Branding/Logotype/README.md)
 - [Graphics]()
 - [Icons](/02%20-%20Export/Icons)
