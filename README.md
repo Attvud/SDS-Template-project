@@ -27,13 +27,6 @@ InVision is the digital product design platform used to make the world's best cu
 
 Using this solution, you can easily create a behavior for elements (hover, focus, etc.) and refer to each color and its hue by a variable name.
 
-## Logotype
-![Logotype.img](/Logotype.png)
-
-### Download Links
-- Monogram & wordmark - [SVG](), [EPS](), [PNG]().
-- Monogram - [SVG](), [EPS](), [PNG]().
-
 ## Typography
 
 ![Typography.img](/Typography.png)
