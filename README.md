@@ -6,7 +6,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Download Links
 - [Source file (.sketch)]()
-- [Logotype](/Export/Branding/Logotype/)
+- [Logotype](/02%20-%20Export/Branding/Logotype/)
 - [Icons](#Icons)
 
 ## Help
