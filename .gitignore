@@ -1,31 +1,7 @@
 <<<<<<< HEAD:.gitignore
 
 # Main
-Animation
-1 Sources/Guides
-Docs/Site/node_modules
-Docs/1 Front End System
-# Need for Projects - 1 Sources/Protected
 
-# Export
-## Branding
-2 Export/Branding/Developer
-2 Export/Branding/2 Developer Logo.svg
-## Guides
-2 Export/Guides/Dividers
-2 Export/Guides/RU/behance
-## UX Patterns
-2 Export/UX Patterns
-## UI Elements
-2 Export/UI Elements - Android
-2 Export/UI Elements - Desktop
-2 Export/UI Elements - iOS
-2 Export/UX Pattenrs
-## UX/UI
-2 Export/UX, UI
-## Other
-2 Export/Social Media
-2 Export/System
 
 # General
 .DS_Store
