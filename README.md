@@ -5,7 +5,7 @@
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
 ## Download Links
-- [Source file (.sketch)](/raw/master//01%20-%20Sources/Project%20Source.sketch)
+- [Source file (.sketch)](/01%20-%20Sources/Project%20Source.sketch)
 - [Logotype](/02%20-%20Export/Branding/Logotype/)
 - [Icons](#Icons)
 
