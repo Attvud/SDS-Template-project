@@ -11,7 +11,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Designer - Artem Attvud. Contacts - [Email](mailto:w@res.pm), [LinkedIn](https://www.linkedin.com/in/attvud)
+- [Order a design change]()
 
 ## InVision
 
@@ -73,3 +73,7 @@ All icons are divided into sections:
 - Affinity Designer, Adobe Illustrator – Working with vector graphics
 - Affinity Photo, Adobe Photoshop – working with raster graphics
 - Github – work with sources, project support, feedback from developers
+
+## Contacts
+
+- UX Designer - Artem Attvud. [Email](mailto:w@res.pm), [LinkedIn](https://www.linkedin.com/in/attvud)
