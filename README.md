@@ -17,7 +17,7 @@ Please read the information below carefully. It has everything you and developer
 - Web Site - [Desktop](), [Mobile]()
 - Mobile App - [Android]()
 
-InVision is the digital product design platform used to make the world's best customer experiences. Click the link and hold the `"shift"` button to see the interactive elements.
+InVision is the digital product design platform used to make the world's best customer experiences. Click the link and hold the `"Shift"` button to see the interactive elements.
 
 ## Colors
 ![Colors.img](/02%20-%20Export/Project%20overview/GitHub/Colors.png)
