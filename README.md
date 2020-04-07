@@ -1,1 +1,1 @@
-# SITIS Design System Template
+# Project Template
