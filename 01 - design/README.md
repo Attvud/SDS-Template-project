@@ -4,7 +4,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Download links
 
-- [Source file (.sketch)](/01%20-%20Sources/Project%20Source.sketch). Click on the link and click `"Download"`
+- [Source file (.sketch)](/Project%20-%20UX,%20UI.sketch). Click on the link and click `"Download"`
 - [Logotype](/01%20-%20design/export/branding/logotype/README.md)
 - [Graphics](/02%20-%20Export/Graphics)
 - [Icons](https://github.com/Attvud/SDS/tree/master/icons)
