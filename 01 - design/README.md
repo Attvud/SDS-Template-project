@@ -1,4 +1,4 @@
-![Cover.img](/01%20-%20design/export/project%20overview/github/cover.png)
+![cover.img](/01%20-%20design/export/project%20overview/github/cover.png)
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
@@ -22,7 +22,7 @@ InVision is the digital product design platform used to make the world's best cu
 
 ## Colors
 
-![Colors.img](/02%20-%20Export/Project%20overview/GitHub/Colors.png)
+![colors.img](/01%20-%20design/export/project%20overview/github/colors.png)
 
 [Here's the SCSS code](/X/System/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
 
@@ -30,7 +30,7 @@ Using this solution, you can easily create a behavior for elements (hover, focus
 
 ## Typography
 
-![Typography.img](/02%20-%20Export/Project%20overview/GitHub/Typography.png)
+![typography.img](/01%20-%20design/export/project%20overview/github/typography.png)
 
 **Legend**: `R` - Regular, `B` - Bold, `LH` - Line Height. The font set used in the project is marked in blue.
 
