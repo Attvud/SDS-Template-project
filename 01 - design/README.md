@@ -6,7 +6,7 @@ Please read the information below carefully. It has everything you and developer
 
 - [Source file (.sketch)](Project%20-%20UX,%20UI.sketch). Click on the link and click `"Download"`
 - [Logotype](/01%20-%20design/export/branding/logotype/README.md)
-- [Graphics](/02%20-%20Export/Graphics)
+- [Graphics](/01%20-%20design/export/graphics/)
 - [Icons](https://github.com/Attvud/SDS/tree/master/icons)
 
 ## Help
