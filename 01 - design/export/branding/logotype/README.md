@@ -33,7 +33,7 @@ The primary logo is a combination mark that consists of the monogram/lettermark,
 
 **Raster**
 
-- PNG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]()
+- PNG - [128 x 128px](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PNG/128%20x%20128.png) / [64 x 64px](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PNG/64%20x%2064.png) / [32 x 32px](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PNG/32%20x%2032.png)
 
 ## Monogram
 
