@@ -1,9 +1,5 @@
 <<<<<<< HEAD:.gitignore
 
-# Main
-01 - design/01 - Project - Components and Settings.sketch
-
-
 # General
 .DS_Store
 .AppleDouble
@@ -31,3 +27,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk>>>>>>> 42c37219c5e134865e6b048854cd322b82bfe2d8:.gitignore
+01 - design/Project - UX, UI.sketch
+01 - design/01 - Project - Components and Settings.sketch
+01 - design/01 - Project - Icons.sketch
