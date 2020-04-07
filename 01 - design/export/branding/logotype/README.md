@@ -11,8 +11,9 @@ The primary logo is a combination mark that consists of the monogram/lettermark,
 
 **Vector**
 
-- [SVG]()
-- [EPS]()
+- [SVG](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark.svg)
+- [EPS](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark.eps)
+- PDF - [128 x 128px]() / [64 x 64px]() / [32 x 32px]()
 
 **Raster**
 
@@ -28,8 +29,8 @@ Furthermore the monogram may be used in cases where the association with your br
 
 **Vector**
 
-- [SVG]()
-- [EPS]()
+- [SVG](/01%20-%20design/export/branding/logotype/monogram.svg)
+- [EPS](/01%20-%20design/export/branding/logotype/monogram.eps)
 
 **Raster**
 
