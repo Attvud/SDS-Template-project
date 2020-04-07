@@ -52,7 +52,7 @@ body {
 
 ## Icons
 
-All icons are optimized using the [SVGO](https://github.com/svg/svgo) API. The weight of the icons was reduced by 30-48%. Export settings are specified in [this file](/X/docs/svgo.json).
+All icons are optimized using the [SVGO](https://github.com/svg/svgo) API. The weight of the icons was reduced by 30-48%. Export settings are specified in [this file](https://github.com/Attvud/SDS/blob/master/X/docs/svgo.json).
 
 Icons have been successfully tested on the following platforms: Web, Android, iOS.
 
