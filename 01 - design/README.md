@@ -11,7 +11,7 @@ Please read the information below carefully. It has everything you and developer
 
 ## Help
 
-- Design - [Create a design change request](https://github.com/Attvud/SDS-Template-project/issues/new/choose) / [Ask a question](mailto:w@res.pm)
+- Design - [Create a design change request](https://github.com/Attvud/SDS/issues/new/choose) / [Ask a question](mailto:w@res.pm)
 
 ## InVision
 
@@ -24,7 +24,7 @@ InVision is the digital product design platform used to make the world's best cu
 
 ![colors.img](/01%20-%20design/export/project%20overview/github/colors.png)
 
-[Here's the SCSS code](/X/System/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
+[Here's the SCSS code](https://github.com/Attvud/SDS/blob/master/X/docs/color%20system.scss) that will create variables for the primary and secondary colors, as well as their shades, and add a palette for grayscale. It is important to use the specified grayscale.
 
 Using this solution, you can easily create a behavior for elements (hover, focus, etc.) and refer to each color and its hue by a variable name.
 
