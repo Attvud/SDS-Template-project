@@ -16,8 +16,7 @@ The primary logo is a combination mark that consists of the monogram/lettermark,
 
 **Raster**
 
-- PNG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]() / [16 x 16px]()
-- JPEG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]() / [16 x 16px]()
+- PNG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]()
 
 ## Monogram
 
@@ -34,5 +33,4 @@ Furthermore the monogram may be used in cases where the association with your br
 
 **Raster**
 
-- PNG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]() / [16 x 16px]()
-- JPEG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]() / [16 x 16px]()
+- PNG - [128 x 128px]() / [64 x 64px]() / [32 x 32px]()
