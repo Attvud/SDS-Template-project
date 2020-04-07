@@ -29,7 +29,7 @@ The primary logo is a combination mark that consists of the monogram/lettermark,
 
 - [SVG](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical.svg)
 - [EPS](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical.eps)
-- PDF - [128 x 128px]() / [64 x 64px]() / [32 x 32px]()
+- PDF - [1x](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PDF/1x.pdf) / [2x](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PDF/2x.pdf) / [3x](/01%20-%20design/export/branding/logotype/monogram%20&%20wordmark%20-%20vertical/PDF/3x.pdf)
 
 **Raster**
 
