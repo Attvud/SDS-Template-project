@@ -5,7 +5,9 @@ Logo is the central visual cue to identify your brand and its official resources
 
 ## Primary logo
 
-![logotype.img](/01%20-%20design/export/project%20overview/github/logotype%20-%20monogram%20&%20wordmark.png)
+## Horizontal
+
+![logotype.img](/01%20-%20design/export/project%20overview/github/logotype%20-%20monogram%20&%20wordmark%20-%20horizontal.png)
 
 The primary logo is a combination mark that consists of the monogram/lettermark, and a wordmark. It is the preferred way to reference , allowing newcomers to associate your brand name with the monogram. I encourage you to use it whenever possible.
 
