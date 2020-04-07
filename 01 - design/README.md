@@ -1,4 +1,4 @@
-![Cover.img](/02%20-%20Export/Project%20overview/GitHub/Cover.png)
+![Cover.img](/01%20-%20design/export/project%20overview/github/cover.png)
 
 Please read the information below carefully. It has everything you and developers need to continue working on this project.
 
