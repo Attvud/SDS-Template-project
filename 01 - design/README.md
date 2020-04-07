@@ -7,7 +7,7 @@ Please read the information below carefully. It has everything you and developer
 - [Source file (.sketch)](Project%20-%20UX,%20UI.sketch). Click on the link and click `"Download"`
 - [Logotype](/01%20-%20design/export/branding/logotype/README.md)
 - [Graphics](/01%20-%20design/export/graphics/)
-- [Icons](https://github.com/Attvud/SDS/tree/master/icons)
+- [Icons](#icons)
 
 ## Help
 
@@ -50,13 +50,13 @@ body {
 }
 ```
 
-# Icons
+## Icons
 
 All icons are optimized using the [SVGO](https://github.com/svg/svgo) API. The weight of the icons was reduced by 30-48%. Export settings are specified in [this file](/X/docs/svgo.json).
 
 Icons have been successfully tested on the following platforms: Web, Android, iOS.
 
-## All icons are divided into sections
+**All icons are divided into sections**
 
 ### Main
 
@@ -65,10 +65,9 @@ Icons have been successfully tested on the following platforms: Web, Android, iO
 
 In this folder, icons are sorted by type - Outlined, Rounded, Sharp. I always use only one icon type per project. You can download icons separately in the following formats: PDF, SVG. All icon types are also available as fonts in the following formats: EOT, TTF, and WOFF.
 
-- [PDF](https://github.com/Attvud/SDS/icons/main/rounded/pdf) / [SVG](https://github.com/Attvud/SDS/icons/main/rounded/svg) / [Font](https://github.com/Attvud/SDS/icons/main/rounded/Icon-Font-Rounded.zip) - Rounded
-- [PDF](https://github.com/Attvud/SDS/icons/main/outlined/pdf) / [SVG](https://github.com/Attvud/SDS/icons/main/outlined/svg) / [Font](https://github.com/Attvud/SDS/icons/main/outlined/Icon-Font-Outlined.zip) - Outlined
-- [PDF](https://github.com/Attvud/SDS/icons/main/sharp/pdf) / [SVG](https://github.com/Attvud/SDS/icons/main/sharp/svg) / [Font](https://github.com/Attvud/SDS/icons/main/sharp/Icon-Font-Sharp.zip) - Sharp
-
+- [PDF](https://github.com/Attvud/SDS/tree/master/icons/main/rounded/pdf) / [SVG](https://github.com/Attvud/SDS/tree/master/icons/main/rounded/svg) / [Font](https://github.com/Attvud/SDS/tree/master/icons/main/rounded/Icon-Font-Rounded.zip) - Rounded
+- [PDF](https://github.com/Attvud/SDS/tree/master/icons/main/outlined/pdf) / [SVG](https://github.com/Attvud/SDS/tree/master/icons/main/outlined/svg) / [Font](https://github.com/Attvud/SDS/tree/master/icons/main/outlined/Icon-Font-Outlined.zip) - Outlined
+- [PDF](https://github.com/Attvud/SDS/tree/master/icons/main/sharp/pdf) / [SVG](https://github.com/Attvud/SDS/tree/master/icons/main/sharp/svg) / [Font](https://github.com/Attvud/SDS/tree/master/icons/main/sharp/Icon-Font-Sharp.zip) - Sharp
 
 ## Technologies and software used
 
