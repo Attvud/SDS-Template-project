@@ -5,7 +5,7 @@ Logo is the central visual cue to identify your brand and its official resources
 
 ## Primary logo
 
-## Horizontal
+### Horizontal
 
 ![logotype.img](/01%20-%20design/export/project%20overview/github/logotype%20-%20monogram%20&%20wordmark%20-%20horizontal.png)
 
